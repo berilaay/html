@@ -1,6 +1,7 @@
 # html
 <h2> Giriş </h2>
-Merhaba, ben Beril. Kodluyoruz'da yeni şeyler öğreniyorum. Bu da öğrendiklerimi pekiştirmek için hazırladığım bir görev. Burada klasikleşmiş film, dizi ve kitaplardan bahsedeceğim.
+<h6>Merhaba, ben Beril. Kodluyoruz'da yeni şeyler öğreniyorum. Bu da öğrendiklerimi pekiştirmek için hazırladığım bir görev. Burada klasikleşmiş film, dizi ve kitaplardan bahsedeceğim. </h6>
+
 
 <img src="https://laankara.com/wp-content/uploads/2018/11/Ankara-Kultur-Sanat-Etkinlikleri.jpg"/>
 <img src="../https://laankara.com/wp-content/uploads/2018/11/Ankara-Kultur-Sanat-Etkinlikleri.jpg"/>
@@ -43,4 +44,6 @@ Merhaba, ben Beril. Kodluyoruz'da yeni şeyler öğreniyorum. Bu da öğrendikle
 
 </ol>
 
+<a> href="https://www.imdb.com/chart/top/" </a>
+  
 
