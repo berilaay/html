@@ -5,8 +5,7 @@
 
 <img src="https://laankara.com/wp-content/uploads/2018/11/Ankara-Kultur-Sanat-Etkinlikleri.jpg"/>
 
-
-<img src="../https://laankara.com/wp-content/uploads/2018/11/Ankara-Kultur-Sanat-Etkinlikleri.jpg"/>
+<img src="../https://laankara.com/wp-content/uploads/2018/11/Ankara-Kultur-Sanat-Etkinlikleri.jpg" alt="Kültür Sanat Rehneri"/>
 
 <p> Çoğumuzun izlediği, herkes tarafından sevilen bazı <b> filmler, diziler </b> ve mutlaka okumanız gereken <b> kitaplar; </b>
 
