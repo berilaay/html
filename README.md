@@ -2,14 +2,14 @@
 <h2> Giriş </h2>
 Merhaba, ben Beril. Kodluyoruz'da yeni şeyler öğreniyorum. Bu da öğrendiklerimi pekiştirmek için hazırladığım bir görev. Burada klasikleşmiş film, dizi ve kitaplardan bahsedeceğim.
 
-<img src="file:///C:/Users/ACER/Desktop/kultur-sanat-haberleri.webp"/>
-<img src="../file:///C:/Users/ACER/Desktop/kultur-sanat-haberleri.webp" alt="Kültür Sanat Rehberi"/>
+<img src="https://laankara.com/wp-content/uploads/2018/11/Ankara-Kultur-Sanat-Etkinlikleri.jpg"/>
+<img src="../https://laankara.com/wp-content/uploads/2018/11/Ankara-Kultur-Sanat-Etkinlikleri.jpg"/>
 
 <p> Çoğumuzun izlediği, herkes tarafından sevilen bazı <b> filmler, diziler </b> ve mutlaka okumanız gereken <b> kitaplar; </b>
 
 <ol>
 
-<li> Filmler </li>
+<h3> <li> Filmler </li> </h3>
 <ol type="I"> 
 <li> Matrix </li>
 <li> İnception </li>
@@ -19,7 +19,7 @@ Merhaba, ben Beril. Kodluyoruz'da yeni şeyler öğreniyorum. Bu da öğrendikle
 <li> Godfather </li>
 </ol>
 
-<li> Diziler </li>
+<h3> <li> Diziler </li> </h3>
 <ol type="I"> 
 <li> Sherlock </li>
 <li> Breaking Bad </li>
@@ -29,7 +29,7 @@ Merhaba, ben Beril. Kodluyoruz'da yeni şeyler öğreniyorum. Bu da öğrendikle
 <li> The Walking Dead </li>
 </ol>
 
-<li> Kitaplar </li>
+<h3> <li> Kitaplar </li> </h3>
 <ol type="I"> 
 <li> Sefiller </li>
 <li> Vadideki Zambak </li>
